@@ -22,15 +22,27 @@ __What I learned from Ron Kuivila's Almat residency:__
 
 ---
 
-<!-- .slide: data-background="figures/DSC_0057m.jpg" -->
+<!-- .slide: data-background="figures/DSC_0057m.jpg" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background="figures/sonogram-example.jpg" data-background-size="100%" -->
+<!-- .slide: data-background="figures/sonogram-example.jpg" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background="figures/us-remove-quasipolar.png" -->
+<!-- .slide: data-background="figures/us-remove-quasipolar.png" data-background-size="contain" -->
+
+---
+
+<img data-src="figures/sphere_cvt_octave_console.png" class="inv" width="70%">
+
+---
+
+<!-- .slide: data-background="figures/voronoi-areas2.jpg" data-background-size="contain" -->
+
+---
+
+stochastic sampling of the five signals (demo)
 
 ---
 
@@ -54,3 +66,22 @@ a paper from 1995
 hypothesis of algorithm
 
 <img data-src="figures/module_A_diagramC.svg" class="inv" width="125%">
+
+---
+
+## perspective 2
+
+through the trajectories of each component
+
+<p class="fragment">- materials</p>
+<p class="fragment">- concepts/representations</p>
+
+---
+
+## thresholds
+
+- system boundaries
+- transitions between media
+- "real time" / "offline"
+
+
